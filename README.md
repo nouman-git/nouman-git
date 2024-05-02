@@ -28,6 +28,7 @@
 ![Livewire](https://img.shields.io/badge/Livewire-%234AB3F4.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-%23000000.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge)
 
 - **Softwares and Tools**:<br><br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -68,4 +69,4 @@
 
 
 
-Last Edited on: April 10, 2024
+Last Edited on: May 03, 2024
